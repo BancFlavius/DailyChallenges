@@ -1,4 +1,4 @@
-public class Challange2 {
+public class Challenge2 {
     public static void main(String[] args) {
         /*
         Given an array of integers, return a new array such that each element at index i

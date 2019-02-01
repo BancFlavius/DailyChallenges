@@ -1,5 +1,5 @@
 
-public class Challange3 {
+public class Challenge3 {
     public static void main(String[] args) {
         int[] arr = {0, 1, 4, 5};
         System.out.println(getLowestPositiveInteger(arr));

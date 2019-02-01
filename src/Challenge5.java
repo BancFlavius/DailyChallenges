@@ -1,4 +1,4 @@
-public class Challange5 {
+public class Challenge5 {
 /*
 Find the first and last element in an array.
 This can be easily done for an ArrayList just by changing the parameters of the methods,
